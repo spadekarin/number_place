@@ -1,4 +1,4 @@
-
+/*
 コンパイル
 javac -p "%JAVA_FX%" --add-modules javafx.controls number_place.java
 
@@ -30,3 +30,4 @@ java -p "%JAVA_FX%" --add-modules javafx.controls number_place input2.txt
 4 3 8 5 2 6 9 1 7
 7 9 6 3 1 8 4 5 2
 
+*/
